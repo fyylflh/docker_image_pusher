@@ -1,1 +1,2 @@
 ddsderek/wxchat:latest
+youshandefeiyang/allinone
