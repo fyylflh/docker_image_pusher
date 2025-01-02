@@ -1,4 +1,4 @@
 ddsderek/wxchat:latest
-youshandefeiyang/allinone
+youshandefeiyang/allinone:latest
 yuexuangu/allinone_format:latest
 hectorqin/reader
