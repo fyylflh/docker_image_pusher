@@ -2,3 +2,4 @@ ddsderek/wxchat:latest
 youshandefeiyang/allinone:latest
 yuexuangu/allinone_format:latest
 hectorqin/reader
+taksss/php-epg:latest
